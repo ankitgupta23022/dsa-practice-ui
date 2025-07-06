@@ -67,7 +67,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dsa-practice-ui.git
+   git clone https://github.com/ankitgupta23022/dsa-practice-ui.git
    cd dsa-practice-ui
    ```
 
