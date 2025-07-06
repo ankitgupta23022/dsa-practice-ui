@@ -1,0 +1,23 @@
+{
+  "name": "Ankit",
+  "aim": "FAANG Interview Preparation",
+  "targetDate": "2025-09-30",
+  "goals": {
+    "dailyProblems": 3,
+    "weeklyGoal": 20,
+    "focusAreas": [
+      "Linked Lists",
+      "Dynamic Programming",
+      "Trees & Graphs",
+      "Arrays & Strings",
+      "Recursion & Backtracking",
+      "Sorting & Searching",
+      "Hash Tables",
+      "Stacks & Queues",
+      "System Design",
+      "Math & Bit Manipulation"
+    ]
+  },
+  "createdAt": "2025-07-06T14:11:02.608Z",
+  "isOnboarded": true
+}
