@@ -297,6 +297,7 @@
         "fnctinspssbyrfrncndvl": false,
         "mtrixmdin": false,
         "chckifthrryissrtd": false,
-        "srinpttpt": false
+        "srinpttpt": true,
+        "dttyps": true
     }
 }
