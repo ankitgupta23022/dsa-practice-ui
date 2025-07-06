@@ -228,10 +228,6 @@ npm run build
 - Ensure the `data/` directory exists and is writable
 - Try exporting and re-importing your data
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **TakeUForward** for the amazing A2Z DSA Course content
